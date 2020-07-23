@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-i am BueVonHun not hon
-hon is little typo 🤣😂
+i am BueVonHun not hon, hon is little typo 🤣😂
 <!--
 **Bue-von-hon/Bue-von-hon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
