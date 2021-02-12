@@ -1,8 +1,12 @@
 ### Hi there 👋
 
 i am BueVonHun not hon, hon is little typo 🤣😂 but you can call me hon🍩🙃
+
+[![CodeForces Profile](https://cf.leed.at?id=BueVonHun)](https://codeforces.com/profile/BueVonHun)
+
 <!--
 **Bue-von-hon/Bue-von-hon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
