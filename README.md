@@ -2,7 +2,7 @@
 
 i am BueVonHun not hon, hon is little typo 🤣😂 but you can call me hon🍩🙃
 
-<a href="http://uhs-alphabet.com"><img src="http://uhs-alphabet.com/api/getSVG?stuID=BueVonHun" alt="kingdom" width="30%" height="30%"/></a> << 이거 만든 사람
+<a href="http://uhs-alphabet.com"><img src="http://uhs-alphabet.com/api/getSVG?stuID=BueVonHun" alt="alphabet" width="30%" height="30%"/></a> << 이거 만든 사람
 
 <!--[![alphabet](http://uhs-alphabet.com/api/getSVG?stuID=BueVonHun)](http://uhs-alphabet.com) << 이거 만드 사람 -->
 ↓이거 보고 만듬
