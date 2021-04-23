@@ -13,6 +13,8 @@ i am BueVonHun not hon, hon is little typo 🤣😂 but you can call me hon🍩�
 
 [![CodeForces Profile](https://cf.leed.at?id=BueVonHun)](https://codeforces.com/profile/BueVonHun)
 
+[![https://solved.ac/profile/adxx](http://mazassumnida.wtf/api/generate_badge?boj=adxx)](https://solved.ac/adxx)
+
 <!--
 **Bue-von-hon/Bue-von-hon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
