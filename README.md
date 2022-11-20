@@ -2,9 +2,6 @@
 
 i am BueVonHun not hon, hon is little typo 🤣😂 but you can call me hon🍩🙃
 
-
-[![handle](http://uhs-alphabet.com/api/getSVG?stuID=20180647)](http://uhs-alphabet.com/)
-
 [![CodeForces Profile](https://cf.leed.at?id=BueVonHun)](https://codeforces.com/profile/BueVonHun)
 
 [![https://solved.ac/profile/adxx](http://mazassumnida.wtf/api/v2/generate_badge?boj=adxx)](https://solved.ac/adxx)
